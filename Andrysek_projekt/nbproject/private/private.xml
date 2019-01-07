@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/Andrysek_projekt/application/views/upravitVTabulce.php</file>
+            <file>file:/C:/xampp/htdocs/Andrysek_projekt/application/config/database.php</file>
+            <file>file:/C:/xampp/htdocs/Andrysek_projekt/application/models/Tabulka_model.php</file>
+            <file>file:/C:/xampp/htdocs/Andrysek_projekt/application/views/layout/menu.php</file>
+            <file>file:/C:/xampp/htdocs/Andrysek_projekt/application/config/config.php</file>
+            <file>file:/C:/xampp/htdocs/Andrysek_projekt/application/controllers/Dashboard_Controller.php</file>
+            <file>file:/C:/xampp/htdocs/Andrysek_projekt/application/views/tabulka.php</file>
+            <file>file:/C:/xampp/htdocs/Andrysek_projekt/application/controllers/Login.php</file>
+            <file>file:/C:/xampp/htdocs/Andrysek_projekt/application/views/layout/layout_nep.php</file>
+            <file>file:/C:/xampp/htdocs/Andrysek_projekt/application/config/routes.php</file>
+            <file>file:/C:/xampp/htdocs/Andrysek_projekt/application/views/layout/menu_nep.php</file>
+            <file>file:/C:/xampp/htdocs/Andrysek_projekt/application/views/pridatDoTabulky.php</file>
+            <file>file:/C:/xampp/htdocs/Andrysek_projekt/application/views/tabulkaNepr.php</file>
+            <file>file:/C:/xampp/htdocs/Andrysek_projekt/application/views/layout/layout_main.php</file>
+        </group>
+    </open-files>
+</project-private>
