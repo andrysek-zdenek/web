@@ -1,0 +1,1 @@
+Do této složky se nahrávají obrázky, které se podé objeví v tabulce
